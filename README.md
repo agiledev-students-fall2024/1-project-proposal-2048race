@@ -2,7 +2,7 @@
 
 ### What and why?
 
-This project will enable two people to race in the classic 2048 game, and every 15 seconds, players will be able to click on an opponent's screen to flip a number to 2, provided that that number is not one of the two biggest.
+This project will enable two people to race in the classic 2048 game, and every 15 seconds, players will be able to click on an opponent's screen to flip a number to 2, provided that the number is not one of the two biggest.
 
 ### For whom?
 
